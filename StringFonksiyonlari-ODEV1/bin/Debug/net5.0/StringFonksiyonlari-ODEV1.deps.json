@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StringFonksiyonlari-ODEV1/1.0.0": {
+        "runtime": {
+          "StringFonksiyonlari-ODEV1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringFonksiyonlari-ODEV1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
