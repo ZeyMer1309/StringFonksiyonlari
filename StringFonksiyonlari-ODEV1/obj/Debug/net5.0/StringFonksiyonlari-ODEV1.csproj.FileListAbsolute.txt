@@ -14,3 +14,35 @@ C:\Users\Omer\Desktop\TURKCELL\StringFonksiyonlari-ODEV1\StringFonksiyonlari-ODE
 C:\Users\Omer\Desktop\TURKCELL\StringFonksiyonlari-ODEV1\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\ref\StringFonksiyonlari-ODEV1.dll
 C:\Users\Omer\Desktop\TURKCELL\StringFonksiyonlari-ODEV1\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.pdb
 C:\Users\Omer\Desktop\TURKCELL\StringFonksiyonlari-ODEV1\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.genruntimeconfig.cache
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.exe
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.deps.json
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.runtimeconfig.json
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.dll
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\ref\StringFonksiyonlari-ODEV1.dll
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.pdb
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.AssemblyInfo.cs
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.dll
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\ref\StringFonksiyonlari-ODEV1.dll
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.pdb
+C:\Users\Omer\Desktop\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.genruntimeconfig.cache
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.exe
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.deps.json
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.runtimeconfig.json
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.runtimeconfig.dev.json
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.dll
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\ref\StringFonksiyonlari-ODEV1.dll
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\bin\Debug\net5.0\StringFonksiyonlari-ODEV1.pdb
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.csproj.AssemblyReference.cache
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.AssemblyInfoInputs.cache
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.AssemblyInfo.cs
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.csproj.CoreCompileInputs.cache
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.dll
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\ref\StringFonksiyonlari-ODEV1.dll
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.pdb
+D:\TURKCELL\[ödev1] - String Fonksiyonları\StringFonksiyonlari-ODEV1\obj\Debug\net5.0\StringFonksiyonlari-ODEV1.genruntimeconfig.cache
